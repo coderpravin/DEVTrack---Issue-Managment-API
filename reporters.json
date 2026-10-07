@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Pravin Patil",
+        "email": "pravinpatil@gmail.com",
+        "team": "Backend Devloper"
+    },
+    {
+        "id": 2,
+        "name": "Rahul Sharma",
+        "email": "rahulsharma@gmail.com",
+        "team": "Frontend Engg"
+    },
+    {
+        "id": 3,
+        "name": "Bipin Mashilkar",
+        "email": "BipinM@gmail.com",
+        "team": "Support Engg"
+    },
+    {
+        "id": 4,
+        "name": "Vipin Sawant",
+        "email": "vipinsawant@gmail.com",
+        "team": "Software Devloper"
+    },
+    {
+        "id": 5,
+        "name": "Uday Godase",
+        "email": "udaygodase@gmail.com",
+        "team": "Backend Devloper "
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "title": "Login Button Not Working In My Mobile",
+        "description": "User On OnePlus 7 Model not ablet to click on login button  ",
+        "status": "open",
+        "priority": "Critical",
+        "reporter_id": 1,
+        "created_at": "2026-10-06 15:20:00"
+    },
+    {
+        "id": 2,
+        "title": "Password Reset Link Not Working",
+        "description": "User is unable to reset password using the link received on email.",
+        "status": "open",
+        "priority": "High",
+        "reporter_id": 2,
+        "created_at": "2026-10-06 15:20:00"
+    },
+    {
+        "id": 3,
+        "title": "Profile Picture Not Uploading",
+        "description": "User is getting an error while uploading profile image from Android mobile.",
+        "status": "in_progress",
+        "priority": "Medium",
+        "reporter_id": 3,
+        "created_at": "2026-10-06 15:20:00"
+    },
+    {
+        "id": 4,
+        "title": "Payment Failed During Checkout",
+        "description": "Payment fails after clicking the Pay Now button even though the amount is debited.",
+        "status": "resolved",
+        "priority": "Low",
+        "reporter_id": 4,
+        "created_at": "2026-10-06 15:20:00"
+    },
+    {
+        "id": 5,
+        "title": "Notification Not Received",
+        "description": "User is not receiving push notifications for new messages.",
+        "status": "closed",
+        "priority": "Low",
+        "reporter_id": 5,
+        "created_at": "2026-10-06 15:20:00"
+    },
+    {
+        "id": 6,
+        "title": "Unauthorized Login Detected",
+        "description": "Multiple unauthorized login attempts detected from an unknown location.",
+        "status": "open",
+        "priority": "Critical",
+        "reporter_id": 2,
+        "created_at": "2026-10-07 11:00:00"
+    },
+    {
+        "id": 7,
+        "title": "Production Database Down",
+        "description": "Production database is not responding.",
+        "status": "open",
+        "priority": "Critical",
+        "reporter_id": 4,
+        "created_at": "2026-10-07 11:15:00"
+    }
+]
